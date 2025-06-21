@@ -17,6 +17,6 @@ A simple antivirus scanner built with Python.
 1. Make sure Python is installed.
 2. Run the script:
 
-If you should have any questions or any suggestions, here are some contact infos:
+Feel free to leave questions, feedbacks and suggestions @:
       - ronakjoshi.work@gmail.com
       - LinkedIn- https://www.linkedin.com/in/ronak-joshi-199426364/
